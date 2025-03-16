@@ -36,6 +36,7 @@ export class App extends React.Component<{}, AppState> {
   }
 
   render() {
+    
     return (
       <div className="App">
         <h1>React clock</h1>
